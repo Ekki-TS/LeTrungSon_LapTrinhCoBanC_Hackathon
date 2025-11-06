@@ -121,8 +121,6 @@ int main() {
                 }
                 break;
             }
-
-			    break;
 			case 9:
 			    break;
 		    case 10:
@@ -146,4 +144,5 @@ int main() {
     } while(1);
     return 0;
 }
+
 
